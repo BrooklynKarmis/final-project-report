@@ -18,7 +18,6 @@ Lista de Epicas
 | EP-11  | Funcional / Analítica         | Como **neurólogo**, quiero **recibir análisis e informes generados por IA** para **identificar patrones, priorizar pacientes y apoyar decisiones clínicas**. | Analítica con IA y Dashboard Clínico                 |
 | EP-12  | Funcional / UX                | Como **usuario (paciente o profesional)**, quiero **personalizar accesibilidad y apariencia de la interfaz** para **adaptarla a mis preferencias y necesidades**. | Usabilidad, Personalización y Accesibilidad          |
 
-
 Listas de historias de usuario
 <table>
   <tbody>
